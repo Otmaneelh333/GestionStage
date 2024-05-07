@@ -4,6 +4,7 @@ content: "";
 flex: 1;
 height: 1px;
 background: #eee;
+padding: 0;
 }
 .h-custom {
 height: calc(100% - 73px);
